@@ -1,0 +1,10 @@
+url: https://test-stand.gb.ru/gateway/login
+address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+
+login: "lukkonst"
+pswd: "e7663beb64"
+
+title: "13 вредных блюд"
+description: "вредные блюда"
+content: "Оказалось, что многие блюда могут становиться невероятно ядовитыми при неправильном приготовлении"
