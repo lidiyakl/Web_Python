@@ -1,0 +1,11 @@
+address: https://test-stand.gb.ru/
+# driver_path: chromedriver.exe
+browser: chrome
+sleep_time: 10
+
+login: "lukkonst"
+pswd: "e7663beb64"
+
+title: "Новый пост"
+description: "Автотест"
+content: "Домашнее задание 2"
