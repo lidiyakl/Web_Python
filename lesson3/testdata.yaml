@@ -1,0 +1,11 @@
+address: https://test-stand.gb.ru/
+# driver_path: chromedriver.exe
+browser: chrome
+sleep_time: 5
+
+login: "lukkonst"
+pswd: "e7663beb64"
+
+name: "Кулеш Лидия"
+email: "name123@mail.ru"
+content: "Домашнее задание 3"
