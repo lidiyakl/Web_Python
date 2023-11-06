@@ -1,0 +1,26 @@
+address: https://test-stand.gb.ru/
+# driver_path: chromedriver.exe
+browser: chrome
+sleep_time: 5
+
+login: "lukkonst"
+pswd: "e7663beb64"
+
+title: "Новый пост"
+description: "Автотест"
+content: "Домашнее задание 2"
+
+name: "Кулеш Лидия"
+email: "name123@mail.ru"
+content2: "Домашнее задание 3"
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: White cat
+
+fromaddr: "klm17-11@mail.ru"
+toaddr: "klm17-11@mail.ru"
+fromaddr_passwd: "3PgCD0n5PbaXZKaQ7Fmq"
+file: "log.txt"
+letter_body: "Отчет о тестировании"
